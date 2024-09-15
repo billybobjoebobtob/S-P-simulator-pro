@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sp500-simulator-pro/static/css/main.60534c50.css",
-    "main.js": "/sp500-simulator-pro/static/js/main.3bb19293.js",
-    "static/js/453.46ab5ad0.chunk.js": "/sp500-simulator-pro/static/js/453.46ab5ad0.chunk.js",
-    "index.html": "/sp500-simulator-pro/index.html",
-    "main.60534c50.css.map": "/sp500-simulator-pro/static/css/main.60534c50.css.map",
-    "main.3bb19293.js.map": "/sp500-simulator-pro/static/js/main.3bb19293.js.map",
-    "453.46ab5ad0.chunk.js.map": "/sp500-simulator-pro/static/js/453.46ab5ad0.chunk.js.map"
+    "main.css": "/S-P-simulator-pro/static/css/main.60534c50.css",
+    "main.js": "/S-P-simulator-pro/static/js/main.acff70ef.js",
+    "static/js/453.46ab5ad0.chunk.js": "/S-P-simulator-pro/static/js/453.46ab5ad0.chunk.js",
+    "index.html": "/S-P-simulator-pro/index.html",
+    "main.60534c50.css.map": "/S-P-simulator-pro/static/css/main.60534c50.css.map",
+    "main.acff70ef.js.map": "/S-P-simulator-pro/static/js/main.acff70ef.js.map",
+    "453.46ab5ad0.chunk.js.map": "/S-P-simulator-pro/static/js/453.46ab5ad0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60534c50.css",
-    "static/js/main.3bb19293.js"
+    "static/js/main.acff70ef.js"
   ]
 }
